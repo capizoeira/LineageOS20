@@ -4,4 +4,4 @@
 > 🔴 not worked on aemulator Plus
 # details
 > Android: 13                              
-> 
+> device: TrebleDroid vanilla
